@@ -1,6 +1,4 @@
-=========================================
-         MIX BOMBER - by B.C.S
-=========================================
+  ***MIX BOMBER - by B.C.S***
 
 🛠 Tool Name   : ***MIX BOMBER***
 👨‍💻 Developer  : (Team B.C.S)
@@ -17,12 +15,22 @@ The developer is NOT responsible for any illegal use or damage.
 
 Use this tool responsibly.
 
+---
+
+❌ DO NOT USE FOR
+
+✘ Harassment
+✘ Spamming others without consent
+✘ Illegal activities
+
+
+---
+
 -----------------------------------------
 📦 FEATURES
 -----------------------------------------
 ✔ Multiple API-based SMS bombing  
 ✔ Stylish terminal UI using Rich & PyFiglet  
-✔ Fake loading animations for aesthetic  
 ✔ Network and IP auto-detection  
 ✔ Bangladesh-based OTP APIs  
 
