@@ -1,0 +1,4 @@
+rich
+pyfiglet
+termcolor
+requests
