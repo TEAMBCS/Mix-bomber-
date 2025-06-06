@@ -61,7 +61,7 @@ pkg upgrade -y
 pkg install git -y
 pkg install python -y
 pip3 install requests
+rm -rf Mix-bomber-
 git clone https://github.com/TEAMBCS/Mix-bomber-.git
-cd Mix-bomber
-pip install -r requirements.txt
+cd Mix-bomber-
 python bomber.py
