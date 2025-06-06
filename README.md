@@ -1,9 +1,7 @@
-=========================================
-         MIX BOMBER - by B.C.S
-=========================================
+ ***MIX BOMBER - by B.C.S**
 
-🛠 Tool Name   : MIX BOMBER
-👨‍💻 Developer  : (Team B.C.S)
+🛠 Tool Name   : **MIX BOMBER**
+👨‍💻 Developer  : ***(Team B.C.S)**
 🌐 Country     : Bangladesh 🇧🇩
 📅 Version     : 1.0
 📁 File Type   : Python Script (.py)
@@ -12,9 +10,9 @@
 -----------------------------------------
 ⚠️ DISCLAIMER
 -----------------------------------------
-This tool is made for EDUCATIONAL and TESTING purposes only.
+***This tool is made for EDUCATIONAL and TESTING purposes only.
 Using this tool to harm others or send spam is STRICTLY FORBIDDEN.
-The developer is NOT responsible for any illegal use or damage.
+The developer is NOT responsible for any illegal use or damage.***
 
 Use this tool responsibly.
 
@@ -35,7 +33,7 @@ Internet connection
 Required modules:
 
 🔧 Install all requirements with this command:
-    pip install -r requirements.txt
+   ***pip install -r requirements.txt***
 
 Modules Used:
 - rich  
